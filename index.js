@@ -75,7 +75,7 @@ client.on('message', message => {
       // Set the author
       .setAuthor('Anime Wrld', 'https://cdn.discordapp.com/app-icons/780323561172107264/f3965adfc2dd85edb56ff6c673086aa2.png', 'https://discord.gg/FQf8CtUX9c')
       // Set the main content of the embed
-      .setDescription('Hi, I am AnimeWrld\n Version 2.4.0')
+      .setDescription('Hi, I am AnimeWrld\n Version 2.4.1')
       // Add Fields
       .addFields(
         {name: 'My Creator', value: '`Ninja_5000#0255, ℕ𝕠𝕥_𝕋𝕙𝕒𝕟𝕚#7506`'},
