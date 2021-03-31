@@ -270,3 +270,4 @@ client.on('message', message => {
 // -------------------- Code for sending custom animated emojis OVER --------------------
 
 client.login(token);
+
